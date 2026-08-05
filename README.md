@@ -28,10 +28,12 @@ I care about product details, clean architecture, readable code, and shipping ch
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub Trophies
+## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mattairhost&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus: Flutter Mobile" />
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Code: Dart" />
+  <img src="https://img.shields.io/badge/Product-Reliable%20Apps-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Product: Reliable Apps" />
 </p>
 
 ## Current Focus
