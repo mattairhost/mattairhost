@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Matt;Flutter+%26+Dart+Mobile+Engineer;Building+reliable+product-focused+apps" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mattairhost&style=flat&color=02569B" alt="Profile views" />
+</p>
+
 # Hi, I'm Matt
 
 Mobile engineer focused on building reliable, maintainable apps with Flutter and Dart.
@@ -19,6 +27,12 @@ I care about product details, clean architecture, readable code, and shipping ch
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mattairhost&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+</p>
 
 ## Current Focus
 
